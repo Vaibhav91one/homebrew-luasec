@@ -1,8 +1,8 @@
 class Luasec < Formula
   desc "Static security scanner for Lua in embedded firmware: finds remote code execution"
   homepage "https://github.com/Vaibhav91one/luasec"
-  url "https://github.com/Vaibhav91one/luasec/releases/download/v0.4.0/luasec-0.4.0.tar.gz"
-  sha256 "5b52b6560e6a2d4c94915716016db0ae5db565fc9311f406b8c8fc8558da8df4"
+  url "https://github.com/Vaibhav91one/luasec/releases/download/v0.5.0/luasec-0.5.0.tar.gz"
+  sha256 "8f92a57140b631735d6e33c30285cf1e94ec0cb56da2e6a06d2fabcf886a4d5a"
   license "MIT"
 
   depends_on "lua"
